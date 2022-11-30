@@ -1,0 +1,14 @@
+.theColor{
+    background-color: rgb(49, 49, 121);
+    border: 1px solid white;
+}
+
+.type{
+    color: white;
+}
+
+.internalBorder{
+    border: 1px solid white;
+    width: 300px;
+    padding-left: 50px;
+}
